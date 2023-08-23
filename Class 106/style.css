@@ -1,0 +1,128 @@
+/**/
+
+body
+{
+    font-family: 'PT Serif', serif;
+    background-image: url("main.jpg");
+    background-size: 1920px;
+    overflow: hidden;
+}
+
+#header_div
+{
+    background: rgb(255, 255, 0);
+    opacity: 100%; 
+    color: rgb(13, 255, 0);
+    text-align: center;
+    width: 600px;
+    border-radius: 10px 10px 0px 0px;
+    margin-bottom: 0px;
+}
+
+#header_div_p
+{
+    color: yellow;
+    background: rgb(13, 255, 0);
+    letter-spacing: 3px;
+    font-size: medium;
+    text-align: center;
+    width: 1000px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-bottom: -20px;
+}
+
+.main_div button
+{
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: cyan;
+    bottom: 0;
+    font-size: 18px;
+    line-height: 3;
+    font-weight: bold;
+    opacity: 100%;
+    background-color: purple;
+    opacity: 100%;
+    width: 250px;
+    height: 55px;
+    border-radius: 27px;
+    margin-left: 1600px;
+    margin-bottom: 40px;
+    padding-left: 0px;
+}
+
+
+.copy_right_footer_background
+{
+    background-color: purple;
+    opacity: 100%;
+    width: 250px;
+    height: 55px;
+    border-radius: 27px;
+}
+
+#Animals
+{
+    margin-left: 100px;
+    padding-top: 200px;  
+    position: absolute;
+    top: 175px;
+    left: 687px
+}
+
+#Lion
+{
+    position: absolute;
+    left: -200;
+    top: 90;
+    text-align: center !important;
+}
+
+#Snake
+{
+    position: absolute;
+    top: 200;
+    text-align: center !important;
+}
+
+#Elephant
+{
+    position: absolute;
+    left: -100;
+    top: 250;
+    text-align: center !important;
+}
+
+#Gradient
+{
+    width: 600px;
+    height: 15px;
+    background: linear-gradient(yellow, greenyellow);
+    margin: 0px;
+    padding: 0px;
+}
+
+#Ear
+{
+    width: 300px;
+    height: 380px;
+    margin-right: 150px;
+    
+}
+
+#result_accuracy
+{
+    margin-bottom: px;
+}
+
+a
+{
+    color: purple;
+}
